@@ -1,6 +1,6 @@
 # design_patterns
 
-design patterns assignment
+design patterns assignment Course_Gp 10
 
 The uml diagram is provided here https://github.com/Abbas-Rizvi/design_patterns/blob/main/UML_Diagram.jpg
 
