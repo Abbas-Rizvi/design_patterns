@@ -6,4 +6,4 @@ Within the src folder contains the code for the abstract class which take advant
 
 Within the test folder it includes a test driver used to demonstrate that the code works using 2 examples of a product.
 
-
+The uml diagram is provided in main
